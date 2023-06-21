@@ -10,6 +10,8 @@
     - 영역 체적 구하기
     - 키 입력 시 단과대학교 홈페이지 연결(작업 중 불필요해짐)
 
-![논문 작업 부분](https://github.com/MFGangP/Metaverse-Reconstruction/blob/main/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png)
+논문 작업 부분
 
-<img src="https://github.com/MFGangP/Metaverse-Reconstruction/imageMeta.gif?raw=true" width="640">
+<img src="https://github.com/MFGangP/Metaverse-Reconstruction/blob/main/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png" width="640">
+
+<img src="https://github.com/MFGangP/Metaverse-Reconstruction/blob/main/image/Meta.gif?raw=true" width="640">
